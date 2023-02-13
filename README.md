@@ -7,7 +7,7 @@ A Data analyst with experience developing and implementing projects related to d
 
 This repository serves as a platform to share my projects, to showcase of my skills, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-You can additionally check out my data visualization projects on my Tableau profile: [tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)
+You can additionally check out my data visualization projects on my Tableau profile: **[tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)**
 
 <br/>
 
