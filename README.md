@@ -30,7 +30,7 @@ The main goal of this project was to understand the historical data and extract 
 ## Contact
 Feel free to contact me with any questions or if you are interested in colaborating on other data analysis projects!
 
-**Henrique Augsten Luz**
+**Henrique Augsten**
 
 * **[Github](https://github.com/hafluz)**
 * **[LinkedIn](https://www.linkedin.com/in/henrique-augsten)**
