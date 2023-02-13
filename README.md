@@ -7,12 +7,12 @@ A Data analyst with experience developing and implementing projects related to d
 
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-You can also check out my data visualization projects on my Tableau profile
+You can also check out my data visualization projects on my Tableau profile: [tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)
 
 
 ## Portfolio Projects
 
-In this section I will list data analytics projects briefly describing the goals and tools employed to solve cases.
+In this section I list my data analytics projects briefly describing the goals and tools employed to solve cases.
 
 ## **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
 #### 🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
@@ -34,23 +34,34 @@ The main goal of the project was to create a tool to track the growth and evolut
 ## **[Project 2: Tsunamis Exploratory Data Analysis](https://github.com/hafluz/tsunami_exploratory)**
 #### 🌊 Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.
 
-**Project Overview:**
+**Overview:**
+The main goal of this project was to better understand patterns within the historical data, detect outliers or anomalous events and find interesting relationships among the variables. Additionaly, there was an effort to extract insights regarding the most common set of events that ultimately led tsunamis to occur, and it affected the dimensions and the aftermath of the events themselves.
 
-The main goal of this project was to understand the historical data and extract insights regarding the particular set of events that ultimately led tsunamis to occur, the dimensions and the aftermath of the events themselves.
+**Python Code:** [`tsunami_exploratory_data_analysis.ipynb`](https://github.com/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)    
+**Skills:** Data understanding, Data preparation and cleaning, Exploratory data analysis, Data Visualization, Data Querying and extracting insights.  
+**Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Google Cloud  
+**Key Findings:** Identified patterns within the historical data, detected outliers events and found interesting relationships among the variables.
 
 <img width="1317" alt="Screenshot 2023-02-11 at 12 27 23" src="https://user-images.githubusercontent.com/122936255/218266767-0c348863-e6d9-4bdf-a534-9b36b17ab2a9.png">
 
-<br/>
+> **Note**  To view the notebook with all maps properly rendered please use **[this link to NbViewer](https://nbviewer.org/github/hafluz/tsunami_exploratory/blob/main/Project_2_Tsunami_Exploratory_Data_Analysis_v2.ipynb)**
+
 <br/>
 
 ## **[Project 3: ChatGPT Sentiment Analysis on Twitter](https://github.com/hafluz/sentiment_analysis)**
 #### 💬 Twitter Sentiment analysis of ChatGPT involving data scrapping and employing deep language models to identify, extract, and quantify the overall sentiment towards ChatGPT.
 
-**Project Overview:**
+**Overview:**
+The main goal of this project was ...
+
+**Python Code:** [`chatgpt_sentiment_analysis.ipynb`]  
+**Skills:**    
+**Tools:** Python, Pandas, Numpy,     
+**Key Findings:**   
 
 
 <br/>
-<br/>
+
 
 ## Contacts
 Feel free to contact me with any questions or if you are interested in colaborating on other data analysis projects!
