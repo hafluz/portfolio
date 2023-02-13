@@ -5,14 +5,11 @@ Hi 👋, I'm Henrique
 
 A Data analyst with experience developing and implementing projects related to data analytics, ETL, EDA, data visualization, BI, APIs and cloud applications.
 
-This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+This repository serves as a platform to share my projects, a showcase of my skills, and a way to track my progress in Data Analytics and Data Science-related topics.
 
-You can also check out my data visualization projects on my Tableau profile: [tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)
+You can additionally check out my data visualization projects on my Tableau profile: [tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)
 
-
-## **Portfolio Projects**
-
-In this section are listed my data analytics projects briefly describing the goals and tools employed to solve cases.
+<br/>
 
 ## **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
 ### 🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
