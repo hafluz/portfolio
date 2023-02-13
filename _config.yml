@@ -4,8 +4,8 @@ theme: jekyll-theme-slate
 # theme: minima
 
 # header_pages:
-  - about.md
-  - portfolio.md
+#  - about.md
+#  - portfolio.md
 
 # github_username:  hafluz
 # linkedin_username: henrique-augsten
