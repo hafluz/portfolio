@@ -2,8 +2,6 @@ theme: minima
 
 minima:
   skin: dark
-  
-minima: 
   social_links:
      - { platform: github,         user_url: "https://github.com/hafluz" }
      - { platform: linkedin,       user_url: "https://www.linkedin.com/in/henrique-augsten" }
