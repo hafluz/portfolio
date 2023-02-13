@@ -12,7 +12,7 @@ You can also check out my data visualization projects on my Tableau profile: [ta
 
 ## **Portfolio Projects**
 
-In this section I list my data analytics projects briefly describing the goals and tools employed to solve cases.
+In this section are listed my data analytics projects briefly describing the goals and tools employed to solve cases.
 
 ## **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
 ### 🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
