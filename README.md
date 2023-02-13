@@ -1,5 +1,5 @@
 ## **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
-🌎 **Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.**
+#### 🌎 **Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.**
 
 ### Project Overview:
 The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key economic indicators.
@@ -10,7 +10,7 @@ The main goal of the project was to create a tool to track the growth and evolut
 <br/>
 
 ## **[Project 2: Tsunamis Exploratory Data Analysis](https://github.com/hafluz/tsunami_exploratory)**
-🌊 **Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.**
+#### 🌊 **Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.**
 
 ### Project Overview:
 The main goal of this project was to understand the historical data and extract insights regarding the particular set of events that ultimately led tsunamis to occur, the dimensions and the aftermath of the events themselves.
@@ -21,7 +21,7 @@ The main goal of this project was to understand the historical data and extract 
 <br/>
 
 ## **[Project 3: ChatGPT Sentiment Analysis on Twitter](https://github.com/hafluz/sentiment_analysis)**
-💬 **Twitter Sentiment analysis of ChatGPT involving data scrapping and employing deep language models to identify, extract, and quantify the overall sentiment towards ChatGPT.**
+#### 💬 **Twitter Sentiment analysis of ChatGPT involving data scrapping and employing deep language models to identify, extract, and quantify the overall sentiment towards ChatGPT.**
 
 ### Project Overview:
 
