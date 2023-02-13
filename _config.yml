@@ -1,5 +1,11 @@
 theme: minima
 
+header_pages:
+  - about.md
+
+github_username:  hafluz
+linkedin_username: henrique-augsten
+
 minima:
   skin: dark
   social_links:
