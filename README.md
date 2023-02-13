@@ -1,6 +1,6 @@
 ## Henrique Augsten's Data Analysis Portfolio
 
-### [Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)
+### **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
 🌎 **Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.**
 
 #### Project Overview:
@@ -11,7 +11,7 @@ The main goal of the project was to create a tool to track the growth and evolut
 <br/>
 <br/>
 
-### [Project 2: Tsunamis Exploratory Data Analysis](https://github.com/hafluz/tsunami_exploratory)
+### **[Project 2: Tsunamis Exploratory Data Analysis](https://github.com/hafluz/tsunami_exploratory)**
 🌊 **Exploratory data analysis of Worldwide Tsunami historical events using Pandas, Numpy, Matplotlib, Seaborn and Folium.**
 
 #### Project Overview:
@@ -22,7 +22,7 @@ The main goal of this project was to understand the historical data and extract 
 <br/>
 <br/>
 
-### [Project 3: ChatGPT Sentiment Analysis on Twitter](https://github.com/hafluz/sentiment_analysis)
+### **[Project 3: ChatGPT Sentiment Analysis on Twitter](https://github.com/hafluz/sentiment_analysis)**
 💬 **Twitter Sentiment analysis of ChatGPT involving data scrapping and employing deep language models to identify, extract, and quantify the overall sentiment towards ChatGPT.**
 
 #### Project Overview:
