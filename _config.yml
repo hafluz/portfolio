@@ -1,14 +1,15 @@
-theme: minima
+theme: jekyll-theme-slate
 
-header_pages:
+
+# theme: minima
+
+# header_pages:
   - about.md
   - portfolio.md
 
-github_username:  hafluz
-linkedin_username: henrique-augsten
+# github_username:  hafluz
+# linkedin_username: henrique-augsten
 
-skin: dark
-social_links:
-  - { platform: github,         user_url: "https://github.com/hafluz" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/henrique-augsten" }
+# skin: dark
+
 
