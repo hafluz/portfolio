@@ -24,3 +24,13 @@ The main goal of this project was to understand the historical data and extract 
 💬 Twitter Sentiment analysis of ChatGPT involving data scrapping and employing deep language models to identify, extract, and quantify the overall sentiment towards ChatGPT.
 
 #### Overview
+
+
+
+## Contact
+Feel free to contact me with any questions or if you are interested in colaborating on other data analysis projects!
+
+**Henrique Augsten Luz**
+
+* **[Github profile](https://github.com/hafluz)**
+* **[LinkedIn](https://www.linkedin.com/in/henrique-augsten)**
