@@ -12,7 +12,7 @@ You can additionally check out my data visualization projects on my Tableau prof
 <br/>
 
 ## **[Project 1: How Green is the Energy we use?](https://github.com/hafluz/energy_data)**
-### 🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
+### 🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on CO2 emissions.
 
 **Overview:**
 The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key economic indicators.
