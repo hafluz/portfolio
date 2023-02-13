@@ -1,6 +1,6 @@
-## Henrique Augsten's Data Analysis Portfolio
+## **Henrique Augsten's Data Analysis Portfolio**
 
-### About
+### **About**
 Hi 👋, I'm Henrique
 
 A Data analyst with experience developing and implementing projects related to data analytics, ETL, EDA, data visualization, BI, APIs and cloud applications.
@@ -10,7 +10,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 You can also check out my data visualization projects on my Tableau profile: [tableau.com/henriqueaugsten](https://public.tableau.com/app/profile/henriqueaugsten)
 
 
-## Portfolio Projects
+## **Portfolio Projects**
 
 In this section I list my data analytics projects briefly describing the goals and tools employed to solve cases.
 
@@ -63,7 +63,7 @@ The main goal of this project was ...
 <br/>
 
 
-## Contacts
+## **Contacts**
 Feel free to contact me with any questions or if you are interested in colaborating on other data analysis projects!
 
 * **Github: [github.com/hafluz](https://github.com/hafluz)**
