@@ -1,7 +1,5 @@
-title: Henrique Augsten's Data Analysis Portfolio
-	description: Slate is a theme for GitHub Pages.
-	show_downloads: false
-	google_analytics:
-	theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+title: [Henrique Augsten's Data Analysis Portfolio]
+description: [A short description of your site's purpose]
 
 
